@@ -1,5 +1,5 @@
 # Setup
-Put the main turtle in the bottom right position of the number, and give it the following items: disk drive, floppy disk, stack of turtles, fuel blocks and building blocks. Arrange them in this order.
+Put the main turtle in the bottom right position of the number and make sure it has some fuel. Give it the following items: disk drive, floppy disk, stack of turtles, fuel blocks and building blocks. Arrange them in this order.
 
 ![Alt text](./day04_setup.png "Turtles!")
 

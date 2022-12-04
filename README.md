@@ -9,3 +9,4 @@ This is an attempt to solve the Advent of Code 2022 with Minecraft. I'm using Mi
 | 01 | 🐢 | 🐢 |
 | 02 | 🐢 | 🐢 |
 | 03 | 🐢 | 🐢 |
+| 04 | 🐢 | 🐢 |
