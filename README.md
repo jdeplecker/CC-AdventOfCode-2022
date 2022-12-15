@@ -20,3 +20,4 @@ This is an attempt to solve the [Advent of Code 2022](https://adventofcode.com/)
 | 12 | 🖥️ | 🖥️ |
 | 13 | 🖥️ | 🖥️ |
 | 14 | 🐢 | 🖥️ |
+| 15 | 🖥️ | 🖥️ |
