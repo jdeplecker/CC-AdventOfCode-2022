@@ -3,6 +3,9 @@
 This is an attempt to solve the [Advent of Code 2022](https://adventofcode.com/) with Minecraft. I'm using Minecraft 1.19.2 with a mod called [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked).
 
 ### Results
+🐢 = LUA - Computercraft turtle\
+🖥️ = LUA - Computercraft computer/monitor\
+🐍 = Python
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
@@ -23,3 +26,4 @@ This is an attempt to solve the [Advent of Code 2022](https://adventofcode.com/)
 | 15 | 🖥️ | 🖥️ |
 | 16 | 🖥️ | 🖥️ |
 | 17 | 🐍 | 🐍 |
+| 18 | 🖥️ | 🖥️ |
