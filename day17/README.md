@@ -1,0 +1,1 @@
+I sadly had to give up on the LUA solution, debugging became a big hassle and lost too much time. I'm also getting annoyed with off by one errors 😒. Got it done using Python instead.
